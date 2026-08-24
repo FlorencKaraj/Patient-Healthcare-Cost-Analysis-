@@ -6,7 +6,7 @@ This project analyzes patient-level healthcare data to investigate the factors a
 
 The analysis focuses on healthcare utilization, comorbidity burden, medication adherence, and their relationships with healthcare costs.
 
-The project combines exploratory data analysis,statistical hypothesis testing, correlation analysis, multivariable linear regression, and regression diagnostics to identify meaningful patterns and potential healthcare cost drivers. 
+The project combines exploratory data analysis, statistical hypothesis testing, correlation analysis, multivariable linear regression, and regression diagnostics to identify meaningful patterns and potential healthcare cost drivers. 
 
 ## Business Questions
 
