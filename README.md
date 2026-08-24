@@ -4,9 +4,9 @@
 
 This project analyzes patient-level healthcare data to investigate the factors associated with post-index total healthcare costs.
 
-The analysis focuses on healthcare utilization,comorbidity burden,medication adherence,and their relationships with healthcare costs.
+The analysis focuses on healthcare utilization, comorbidity burden, medication adherence, and their relationships with healthcare costs.
 
-The project combines exploratory data analysis,statistical hypothesis testing,correlation analysis,multivariable linear regression,and regression diagnostics to identify meaningful patterns and potential healthcare cost drivers. 
+The project combines exploratory data analysis,statistical hypothesis testing, correlation analysis, multivariable linear regression, and regression diagnostics to identify meaningful patterns and potential healthcare cost drivers. 
 
 ## Business Questions
 
@@ -76,7 +76,7 @@ The project was developed using the following tools and technologies:
    - Calculated correlation coefficients and statistical significance.
 
 5. Multivariable Linear Regression
-   - Built a multivariable linear regression model using healthcare utilization, length of stay, comorbidity count, and medication adherence as predictors.
+   - Built a multivariable linear regression model using inpatient admissions, outpatient visits, emergency room visits, total length of stay, comorbidity count, and medication adherence as predictors.
    - Evaluated model fit using R².
    - Calculated regression coefficients, standard errors, t-statistics, and p-values.
 
