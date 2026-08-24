@@ -24,7 +24,7 @@ This project addresses the following key business and healthcare analytics quest
 
 6. Are there important limitations in the regression model, such as heteroscedasticity or increasing prediction error at higher cost levels?
 
-## Datasaet
+## Dataset
 
 The project uses patient-level healthcare data containing information on healthcare utilization, medication adherence, comorbidity burden, and post-index healthcare costs.
 
@@ -48,7 +48,7 @@ The project was developed using the following tools and technologies:
 
 - Python — primary programming language for data analysis
 - Pandas — data loading, cleaning, transformation, and analysis
-- NumPy — numerical calculations and regression computations
+- NumPy — numerical calculations and data manipulation 
 - SciPy — statistical hypothesis testing and p-value calculations
 - Matplotlib — data visualization and regression diagnostics
 - scikit-learn — multivariable linear regression
@@ -168,7 +168,7 @@ Regression diagnostics indicated potential heteroscedasticity, with prediction e
 
 This suggests that the constant-variance assumption of ordinary least squares regression may not be fully satisfied and should be considered when interpreting the model results.
 
-## Business / Healthcare Insights
+## Business and Healthcare Insights
 
 The findings provide several potential insights from a healthcare analytics perspective.
 
@@ -224,7 +224,6 @@ Future analysis could extend this project in several directions:
 - Evaluate additional patient-level factors that may improve the prediction of healthcare costs.
 - Compare model performance using alternative machine learning regression approaches.
 - Validate the findings on additional healthcare datasets or different patient populations.
-- Develop an interactive Power BI dashboard to communicate key healthcare cost and utilization insights to non-technical stakeholders.
 
 ## Project Structure
 
